@@ -1,0 +1,23 @@
+/* Colores especificos */
+
+.bg-light-custom {
+  background-color: #f0f0f0;
+}
+
+.input-dark-custom {
+  background-color: #ebebeb !important;
+}
+
+.btn-light-purple {
+  background-color: #9112ff;
+  color: #e3e3e3;
+}
+
+.btn-light-purple:hover {
+  background-color: #9112ff;
+  color: #e3e3e3;
+}
+
+body {
+  margin: 1%;
+}
